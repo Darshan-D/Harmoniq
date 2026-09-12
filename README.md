@@ -1,4 +1,4 @@
-# 🎧 CrossFadeMusicPlayer
+# 🎧 Harmoniq - The Cross Fade Music Player
 
 A native iOS music player, built with SwiftUI and `AVAudioEngine`, that crossfades seamlessly between local lossless (FLAC) tracks — the kind of gapless, overlapping transition you'd get from Spotify or a DJ mixer, running entirely on-device against your own audio files.
 
@@ -21,12 +21,9 @@ Think of it as a love letter to `AVAudioEngine`: two player "decks" secretly swa
 
 **Crossfade in action:**
 
-<video src="https://raw.githubusercontent.com/Darshan-D/Harmoniq/main/docs/media/crossfade-demo.mov" width="280" controls muted loop>
+<video src="https://github.com/user-attachments/assets/b4fd4170-5af0-4c43-a9a3-eebc44ab4eb3" width="280" controls muted loop>
   Your browser/viewer doesn't support inline video — open docs/media/crossfade-demo.mov directly.
 </video>
-
-<!-- 📸 Screenshots/recording pending — drop them into docs/media/ as:
-     player-view.png, queue-view.png, crossfade-demo.mov -->
 
 ## What it does
 
