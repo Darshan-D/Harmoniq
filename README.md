@@ -21,7 +21,7 @@ Think of it as a love letter to `AVAudioEngine`: two player "decks" secretly swa
 
 **Crossfade in action:**
 
-<video src="docs/media/crossfade-demo.mov" width="280" controls muted loop>
+<video src="https://raw.githubusercontent.com/Darshan-D/Harmoniq/main/docs/media/crossfade-demo.mov" width="280" controls muted loop>
   Your browser/viewer doesn't support inline video — open docs/media/crossfade-demo.mov directly.
 </video>
 
