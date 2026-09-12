@@ -6,6 +6,13 @@ Think of it as a love letter to `AVAudioEngine`: two player "decks" secretly swa
 
 > Built as a proof of concept to dig into low-level iOS audio scheduling — not a shipped product, but hopefully a fun one to read through.
 
+---
+
+### 🧠 Read the Medium article explaining the motivation behind this project
+[Why Doesn’t YouTube Music Have Crossfade Support?](https://medium.com/@darshandodia/why-doesnt-youtube-music-have-crossfade-i-built-my-own-engine-to-find-out-a1de09091328?sharedUserId=darshandodia)
+
+---
+
 ## See it in action
 
 <table>
